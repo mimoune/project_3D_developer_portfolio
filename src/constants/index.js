@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   ccg,
+  totalEnergies,
   sobrus,
   sofrecom,
   intelcom,
@@ -46,12 +47,12 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
     title: "Backend Developer",
     icon: backend,
+  },
+  {
+    title: "React Native Developer",
+    icon: mobile,
   },
   {
     title: "UI Integrator",
@@ -115,6 +116,19 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Fullstack js Developer",
+    company_name: "TotalEnergies",
+    icon: totalEnergies,
+    iconBg: "#ffffff",
+    date: "Janvier 2023 - Oct 2023",
+    points: [
+      "Contributing to the development and maintenance of web applications, with a primary focus on backend development using Nestjs, complemented by front-end work with React.js and other relevant technologies.",
+      "Collaborating with cross-functional teams, including tech lead and product managers, to create high-quality products, with a significant role in developing and integrating backend functionalities.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+    ],
+  },
   {
     title: "Fullstack js Developer",
     company_name: "Sobrus",

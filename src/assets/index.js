@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import ccg from "./company/ccg.png";
 import intelcom from "./company/intelcom.png";
 import sobrus from "./company/sobrus.png";
+import totalEnergies from "./company/totalEnergies.png";
 import sofrecom from "./company/sofrecom.png";
 
 import carrent from "./carrent.png";
@@ -55,6 +56,7 @@ export {
   ccg,
   intelcom,
   sobrus,
+  totalEnergies,
   sofrecom,
   carrent,
   jobit,
